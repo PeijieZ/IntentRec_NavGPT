@@ -1,0 +1,18 @@
+Locations,Latitude,Longitude
+Victoria Station London,51.4952103,-0.1438979
+Farringdon Station London,51.5202076,-0.1048177
+St. Paul's Cathedral London,51.5138453,-0.0983506
+Buckingham Palace London,51.501364,-0.14189
+London Bridge,51.5078788,-0.0877321
+London eye,51.5031864,-0.1195192
+University of London,51.5229649,-0.1309067
+The British Museum,51.5194133,-0.1269566
+Tower Bridge London,51.5054564,-0.07535649999999999
+Waterloo Station London,51.5032466,-0.112293
+Kensington Palace London,51.5049757,-0.187681
+Piccadilly Circus Station London,51.510121,-0.1341683
+Paddington Station London,51.5166744,-0.1769328
+Euston Station London,51.5280408,-0.1333271
+Piccadilly Circus Station London,51.510121,-0.1341683
+Hyde Park London,51.5073638,-0.1641135
+Westminster Abbey London,51.4993695,-0.1272993
